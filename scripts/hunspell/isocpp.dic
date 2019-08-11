@@ -23,6 +23,8 @@ ABA
 abi
 ABI
 ABIs
+Abrahams
+Abrahams01
 abstr
 accessor
 ack
@@ -50,6 +52,8 @@ ASIC
 asio
 AST
 async
+'B'
+b2
 BDE
 behaviorless
 BigPOD
@@ -60,6 +64,7 @@ Boehm
 bool
 buf
 bufmax
+bY
 C1
 C11
 C2
@@ -72,7 +77,9 @@ CaMelcAse
 CaMeLcAsEvArIaBlE
 Cargill
 Cargill92
+cbegin
 CComPtr
+cend
 cerr
 chrono
 cin
@@ -82,7 +89,11 @@ clib
 Cline99
 ClosePort
 cm3
+cnt
 CommonMark
+*compiletime
+completers
+componentization
 composability
 composable
 conceptsTS
@@ -103,6 +114,8 @@ CplusplusCS
 cpp
 cpp98
 CppCon
+CppCoreCheck
+cppcoreguidelines
 cppreference
 CRTP
 cst
@@ -227,13 +240,13 @@ impactful
 impl
 Impl
 implicitpointercast
-incompleat
+incomplet
+incorrekt
 increment1
 Incrementable
 indices
 ing
 init
-inkorrekt
 inline
 inlined
 inlining
@@ -265,6 +278,7 @@ Lakos96
 Lavavej
 LCSD05
 lifecycle
+*life-time
 linearization
 llvm
 lockfree
@@ -290,6 +304,7 @@ memcmp
 memmove
 memoization
 memoized
+memoizes
 memset
 metameta
 metaprogram
@@ -309,7 +324,7 @@ mnemonizes
 modify1
 modify2
 moredata
-multithreaded
+*multithreaded
 msgsl
 mtx
 Murray93
@@ -331,6 +346,7 @@ ness
 newdelete
 nh
 NL
+nodiscard
 noexcept
 noname
 nondependent
@@ -346,6 +362,7 @@ NR
 nullness
 nullptr
 NVI
+ofstream
 ok
 oo
 OO
@@ -400,6 +417,7 @@ Productinfo
 proto
 ps
 ptr
+ptrdiff
 Ptr
 ptr2
 ptr's
@@ -417,6 +435,7 @@ Rcon
 Rconc
 Rconst
 Rcpl
+*realtime
 Rec2
 refactor
 refactored
@@ -433,7 +452,13 @@ reseat
 reseating
 reseats
 resizable
+rethrow
+rethrowing
 retryable
+*re-use
+*re-usable
+*re-usability
+*Re-usability
 reusability
 Reusability
 Ri
@@ -456,6 +481,7 @@ RVO
 s1
 s1's
 s2
+s3
 Sarkar
 scanf
 Sd
@@ -496,6 +522,8 @@ STL
 stmt
 str
 strdup
+stringification
+stringlike
 strlen
 Str15
 Stroustrup
@@ -536,6 +564,7 @@ tmp
 TMP
 tock
 TODO
+toLower
 toolchains
 TotallyOrdered
 TP
@@ -549,6 +578,7 @@ typesafe
 UB
 u1
 u2
+UDLs
 unaliased
 uncompromised
 underuse
@@ -566,6 +596,7 @@ UTF
 util
 v's
 v1
+v2
 va
 ValueType
 vararg
@@ -596,6 +627,7 @@ WG21
 'widen'
 x1
 x2
+x22
 xmax
 xor
 Xs
